@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Assignment</string>
+    <string name="search_profile">Search Profile</string>
+    <string name="something_went_wrong">Something went wrong</string>
+    <string name="public_repo_s_public_gist_s">Public Repo: %s       Public Gist: %s</string>
+    <string name="followers_s">Follower %s</string>
+    <string name="following_s">Following %s</string>
+    <string name="bracket_s">( %s )</string>
+    <string name="followers">Followers</string>
+    <string name="followings">Followings</string>
+    <string name="user">User</string>
+</resources>
